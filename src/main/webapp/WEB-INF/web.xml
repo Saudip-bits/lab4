@@ -8,7 +8,7 @@
   <display-name>DevOpsLab4</display-name>
 
   <servlet>
-    <servlet-name>DevOpsLab4Servlet</servlet-name>
+    <servlet-name>Servlet</servlet-name>
     <servlet-class>com.example.Servlet</servlet-class>
   </servlet>
 
